@@ -1,0 +1,2 @@
+float TimeDifference();
+void StartStopWatch();
